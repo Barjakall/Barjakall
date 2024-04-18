@@ -1,6 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=Barjakall&icon=4&color=11)](https://visitcount.itsvg.in)
-<h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">An aspiring frontend developer from Portugal</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
+<h3 align="left">My name is Ivan and I'm an aspiring Front-end developer from Portugal!</h3>
+
+<h2 align="left">About me</h2>
+
+- ✨ Creating bugs since **September 2023**
 
 - 🌱 I’m currently learning **React/UX & UI Design** <img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh6ZHUyMHd3ZjByZmRheXcxcmVrenMzcjhucG10YWM2N2FzYXZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
@@ -10,7 +14,7 @@
 
 - 🖼️ Check out my [portfolio](https://root-hurricane-6f7.notion.site/Ivan-Oliynyks-Portfolio-5ad84b027de74776aabac432f87876ee?pvs=25)
 
-- ⚡ Fun fact **I like cats! 😎**
+- ⚡ Fun fact **I like cats and plants! 😎**
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
