@@ -34,6 +34,10 @@
 </li>
 </ul>
 
+# 🐍 My Contributions being eaten my a snake! 😱
+
+<img src="https://raw.githubusercontent.com/Barjakall/Barjakall/output/snake.svg" alt="Snake animation" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Barjakall&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Barjakall&theme=dark&hide_border=false)<br/>
