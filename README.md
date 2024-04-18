@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">An aspiring frontend developer from Portugal</h3>
 
-- 🌱 I’m currently learning **React/UX & UI Design** <img align="right" height="190" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh6ZHUyMHd3ZjByZmRheXcxcmVrenMzcjhucG10YWM2N2FzYXZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
+- 🌱 I’m currently learning **React/UX & UI Design** <img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh6ZHUyMHd3ZjByZmRheXcxcmVrenMzcjhucG10YWM2N2FzYXZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
 - 📫 How to reach me **barjakall@gmail.com**
 
